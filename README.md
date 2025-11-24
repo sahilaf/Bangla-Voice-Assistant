@@ -9,17 +9,13 @@ This is a Python-based voice assistant that speaks and understands Bangla using 
     -   Create a project and get `LIVEKIT_URL`, `LIVEKIT_API_KEY`, `LIVEKIT_API_SECRET`.
 3.  **Google Gemini API Key**: [https://aistudio.google.com/](https://aistudio.google.com/)
     -   Get `GOOGLE_API_KEY`.
-4.  **Deepgram API Key**: [https://console.deepgram.com/](https://console.deepgram.com/)
-    -   Get `DEEPGRAM_API_KEY`.
-5.  **Google Cloud Credentials** (Optional but recommended for TTS):
-    -   For `google.TTS` to work best, you might need Application Default Credentials if the API key isn't enough for Cloud TTS.
-    -   Alternatively, you can try switching to Deepgram TTS in `agent.py` if you don't have GCP set up, but Bangla support might be limited.
+4.  Run the notebook and replace the url in agent.py and local_stt.py
 
 ## Setup
 
 1.  Navigate to the agent directory:
     ```bash
-    cd agent
+    cd Bangla-Voice-Assistant
     ```
 
 2.  Install dependencies:
