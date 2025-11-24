@@ -28,11 +28,6 @@ This is a Python-based voice assistant that speaks and understands Bangla using 
     ```
 
 3.  Set up environment variables:
-    -   Copy `.env.example` to `.env.local`:
-        ```bash
-        cp .env.example .env.local
-        # On Windows Command Prompt: copy .env.example .env.local
-        ```
     -   Edit `.env` and fill in your API keys.
 
 ## Running the Agent
