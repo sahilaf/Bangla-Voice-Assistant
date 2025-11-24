@@ -1,6 +1,6 @@
 # Bangla Voice Assistant Agent
 
-This is a Python-based voice assistant that speaks and understands Bangla using LiveKit, Gemini, and Deepgram.
+This is a Python-based voice assistant that speaks and understands Bangla using LiveKit, Gemini, Whisper and Edge_tts
 
 ## Prerequisites
 
